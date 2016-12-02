@@ -59,3 +59,7 @@ For implementation details, please refer to the wiki and file [doc/sofa-pbrpc-do
 
 ### Support
 opensearch@baidu.com
+
+### modification
+
+add  CMakeLists.txt for sofa-pbrpc by zhouyang on 2016-12-03.
