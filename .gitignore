@@ -19,7 +19,5 @@ unit-test/test_tran_buf_pool
 unit-test/test_io_service_pool
 *.a
 sofa-pbrpc-client
-depends.mk
-src/sofa/pbrpc/*.pb.h
-src/sofa/pbrpc/*.pb.cc
-
+client/
+cmake-build-debug/
